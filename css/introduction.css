@@ -17,51 +17,48 @@
     margin: 0 auto;
     padding: 0;
 }
-#wrapper #contents div{
-    width: 200px;
-    height: 200px;
-    margin: 20px 50px;
-    padding: 0;
-    background-color: #92e5fe;
+#wrapper #ecology{
+    width: 40%;
+    height: 500px;
+    margin: 30px ;
     float: left;
 }
-#wrapper #info{
-    width: 800px;
-    height: 300px;
-    margin: 20px 0 30px 30px;
+#wrapper #ecology img{
+    width: 200px;
+    height: 100px;
+    margin: 25px 15px;
+}
+#wrapper #ecology img:hover{
+    opacity: 0.5;
+}
+#wrapper #type{
+    width: 40%;
+    height: 500px;
+    margin: 30px;
     float: right;
 }
-#wrapper #info h2{
-    width: 790px;
+#wrapper  h2{
+    width: 80%%;
     height: 50px;
     line-height: 50px;
-    margin: 0;
-    padding: 0 0 0 10px;
+    margin: 0 ;
+    padding: 0 20px 0 10px;
     color: #92e5fe;
     background-color: #28a6cc;
-    border-radius: 10px 10px 0 0;
+    border-radius: 10px 10px 0 0 ;
 }
-#wrapper #info div{
-    width: 798px;
-    height: 249px;
+#wrapper #type ul{
+    width: 91%;
+    height: 200px;
     border: 1px solid #408ca3;
+    margin: 0;
+    float: right;
 }
-#wrapper #info div p{
+#wrapper #type ul li{
     font-size: 23px;
+    margin: 10px 0 0 0;
     padding: 0 0 0 20px;
     text-decoration: underline;
-}
-#wrapper #category{
-    width: 150px;
-    margin: 20px 100px 30px 30px;
-    border: 1px solid #408ca3;
-    float: left;
-}
-#wrapper #category li{
-    width: 150px;
-    height: 50px;
-    line-height: 50px;
-    color: #394548;
 }
 #page-top{
     position: fixed;
