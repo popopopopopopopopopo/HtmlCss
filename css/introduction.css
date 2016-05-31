@@ -28,11 +28,14 @@
     height: 100px;
     margin: 30px 10px;
 }
+#wrapper #ecology img:hover{
+    opacity: 0.5;
+}
 #wrapper #type{
     width: 40%;
     height: 500px;
     margin: 30px;
-    float: right;;
+    float: right;
 }
 #wrapper  h2{
     width: 80%%;
@@ -42,6 +45,7 @@
     padding: 0 20px 0 10px;
     color: #92e5fe;
     background-color: #28a6cc;
+    border-radius: 10px 10px 0 0 ;
 }
 #wrapper #type ul{
     width: 91%;
@@ -63,6 +67,7 @@
     width: 50px;
     height: 50px;
     background-color: #030304;
+    border-radius: 30px;
 }
 #page-top p{
     width: 50px;
