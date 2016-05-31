@@ -78,3 +78,6 @@
     color: #92e5fe;
     text-align: center;
 }
+#page-top p a:hover,#page-top p a:visited{
+    color: #ffffff;
+}

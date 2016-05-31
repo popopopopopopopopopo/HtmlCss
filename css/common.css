@@ -41,6 +41,14 @@ header ul li{
     list-style-type: none;
     line-height: 40px;
 }
+header ul li a:visited{
+    color: #62b4cc;
+}
+header ul li a:hover{
+    color: #28a6cc;
+}
+
+
 footer{
     width: 1200px;
     height: 50px;
