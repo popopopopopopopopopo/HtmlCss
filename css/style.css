@@ -17,10 +17,13 @@
     margin: 0 auto;
     padding: 0;
 }
-#wrapper #contents {
+#wrapper #contents div{
     width: 200px;
     height: 200px;
-    float left;
+    margin: 20px 50px;
+    padding: 0;
+    background-color: #92e5fe;
+    float: left;
 }
 #wrapper #info{
     width: 800px;
