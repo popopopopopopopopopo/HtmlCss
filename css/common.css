@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: #f7f7f7;
+    
 }
 header{
     width: 100%;
@@ -59,4 +60,5 @@ footer{
 
 footer{
     text-align: center;
+    line-height: 50px;
 }
